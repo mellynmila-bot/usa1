@@ -1,0 +1,6 @@
+{
+  "name": "Naielly Beauty Center",
+  "description": "Site institucional da Brazilian Beauty Expert Naielly Silva em Springfield, MA. Cílios, sobrancelhas, maquiagem, noivas, epilação e cursos VIP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
